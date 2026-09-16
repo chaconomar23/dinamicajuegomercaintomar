@@ -1,0 +1,6 @@
+{
+  "name": "WORLD TRADE: El desafío de las naciones",
+  "description": "Un juego interactivo para enseñar la Teoría de Heckscher-Ohlin mediante decisiones de comercio internacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
